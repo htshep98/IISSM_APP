@@ -12,7 +12,7 @@ G3: Begin to understand some of the faults and limitations of the model.
 
 ## Files
 The IISSM-APP and its associated functions were created on MATLAB 2022a.\
-The following files can be downloaded from this repository:\
+The following files can be downloaded from this repository:
 #### Downloads
 X.mlappinstall is the download file for the app to be used on MATLAB. This file can only be accessed through MATLAB. If you would like to use this version of the app, please first download MATLAB and open the file through the 'Apps' tab.\
 Y.exe is the download file for the app to be used as a desktop app. It can be downloaded by anyone using a desktop computer. To use this version of the app simply install and open. The app will run on opening.\
