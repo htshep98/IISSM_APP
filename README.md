@@ -24,6 +24,9 @@ infslopem.m is the ISSM function created for use in the app. It can be downloade
 HillslopeTable.jpg is a table containing the variable values for the example hillslope.\
 IISSM_eq2.jpg is a figure containing the final form of the ISSM equation used in the app.\
 SoilValueTable.jpg is a a table containing the variable values for the soil types available.
+#### Miscellaneous
+README.md is the README file for viewing on GitHub.\
+README_text.txt is a text equivalent of the README.md file. Can be opened and viewed from a zip file without specialist software.
 ## Usage
 Feel free to download and use the app, and download and edit the code, for example to include further parameters (e.g. by modelling cohesion or saturation).\
 If, upon download, you spot any bugs or have any other feedback, please email:\
