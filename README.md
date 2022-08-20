@@ -14,12 +14,15 @@ G3: Begin to understand some of the faults and limitations of the model.
 The IISSM-APP and its associated functions were created on MATLAB R2022a.\
 The following files can be downloaded from this repository:
 #### Downloads
-X.mlappinstall is the download file for the app to be used on MATLAB. This file can only be accessed through MATLAB. If you would like to use this version of the app, please first download MATLAB and open the file through the 'Apps' tab.\
-Y.exe is the download file for the app to be used as a desktop app. It can be downloaded by anyone using a desktop computer. To use this version of the app simply install and open. The app will run on opening.
+IISSM_APP_MATLAB_install.mlappinstall is the download file for the app to be used on MATLAB. This file can only be accessed through MATLAB. If you would like to use this version of the app, please first download MATLAB and open the file through the 'Apps' tab.\
+IISSM_APP_desktop_install.exe is the download file for the app to be used as a desktop app. It can be downloaded by anyone using a desktop computer. To use this version of the app simply install and open. The app will run on opening.
 #### Code
-Z.m is the code used to produce the app as an .m file. It can be opened through MATLAB (or equivalent).\
+IISSM_APP_m.m is the code used to produce the app as an .m file. It can be opened through MATLAB (or equivalent).\
 infslopem.m is the ISSM function created for use in the app. It can be downloaded and edited.
-
+#### Figures
+HillslopeTable.jpg is a table containing the variable values for the example hillslope.\
+IISSM_eq2.jpg is a figure containing the final form of the ISSM equation used in the app.\
+SoilValueTable.jpg is a a table containing the variable values for the soil types available.
 ## Usage
 Feel free to download and use the app, and download and edit the code, for example to include further parameters (e.g. by modelling cohesion or saturation).\
 If, upon download, you spot any bugs or have any other feedback, please email:\
