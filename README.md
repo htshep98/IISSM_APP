@@ -1,5 +1,6 @@
 # IISSM_APP 
 \
+[![DOI](https://zenodo.org/badge/518837019.svg)](https://zenodo.org/badge/latestdoi/518837019) \
 IISSM-APP download files and the code used to produce the app.
 
 ## Aims
